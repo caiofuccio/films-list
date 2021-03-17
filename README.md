@@ -52,18 +52,18 @@ O principal desafio abordado foi a refatoração da página a fim de componetiz�
 
 ## 🧰 Como executar
 
-    # Clone o repositório
-    $ git clone git@github.com:caiofuccio/films-list.git
-	
+	# Clone o repositório
+	$ git clone git@github.com:caiofuccio/films-list.git
+
 	# Instale as dependências
 	$ yarn
-	
-  # Inicie o servidor JSON
-  $ yarn server
-  
+
+	# Inicie o servidor JSON
+	$ yarn server
+
 	# Execute a aplicação no modo de desenvolvimento
 	$ yarn dev
-	
+
 	# A aplicação será aberta na porta:8080 - acesse https://localhost:8080
 
 ---
