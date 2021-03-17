@@ -19,17 +19,18 @@
 </h4>
 
 <p align="center">
- <a href="#💻-sobre">Sobre</a> •
- <a href="#⚙️-funcionalidades">Funcionalidades</a> •
- <a href="#🖼️-layout">Layout</a> • 
- <a href="#🧰-como-executar">Como executar</a> • 
- <a href="#🚀-tecnologias">Tecnologias</a> • 
- <a href="#👨‍💻-autor">Autor</a>
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a>
 </p>
 <br/>
 
 ## 💻 Sobre
-O WatchMe é uma aplicação para listar filmes  de uma database por gênero. São apresentados os posteres dos filmes, notas médias e duração. 
+
+O WatchMe é uma aplicação para listar filmes de uma database por gênero. São apresentados os posteres dos filmes, notas médias e duração.
 
 Esse projeto faz parte dos desafios da trilha ReactJS do bootcamp Ignite, promovido pela Rocketseat.
 
@@ -39,6 +40,7 @@ O principal desafio abordado foi a refatoração da página a fim de componetiz�
 ---
 
 ## ⚙️ Funcionalidades
+
 - Visualização de um banco de dados de filmes separados por categorias.
 - Você pode selecionar as categorias na sidebar à esquerda clicando nos botões.
 
@@ -52,19 +54,19 @@ O principal desafio abordado foi a refatoração da página a fim de componetiz�
 
 ## 🧰 Como executar
 
-	# Clone o repositório
-	$ git clone git@github.com:caiofuccio/films-list.git
+    # Clone o repositório
+    $ git clone git@github.com:caiofuccio/films-list.git
 
-	# Instale as dependências
-	$ yarn
+    # Instale as dependências
+    $ yarn
 
-	# Inicie o servidor JSON
-	$ yarn server
+    # Inicie o servidor JSON
+    $ yarn server
 
-	# Execute a aplicação no modo de desenvolvimento
-	$ yarn dev
+    # Execute a aplicação no modo de desenvolvimento
+    $ yarn dev
 
-	# A aplicação será aberta na porta:8080 - acesse https://localhost:8080
+    # A aplicação será aberta na porta:8080 - acesse https://localhost:8080
 
 ---
 
@@ -81,7 +83,6 @@ O principal desafio abordado foi a refatoração da página a fim de componetiz�
 	<br/>
 	
 ---
-
 
 ## 👨‍💻 Autor
 
