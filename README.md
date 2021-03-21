@@ -1,7 +1,7 @@
 <p align="center">
-	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caiofuccio/github-explorer">
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caiofuccio/github-explorer">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caiofuccio/todo-list">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caiofuccio/films-list">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caiofuccio/films-list">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caiofuccio/films-list">
   <img alt="status" src="https://img.shields.io/badge/status-finished-success">
   <a href="https://github.com/caiofuccio">
 	  <img alt="Feito por Caio Fuccio" src="https://img.shields.io/badge/feito%20por-Caio%20Fuccio-9cf">
